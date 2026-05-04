@@ -1,6 +1,7 @@
 ---
 name: git-commit-msg
 description: This skill should be used when the user asks to "generate a commit message", "write a commit message", "suggest a conventional commit", "summarize these git changes", or "what should I commit this as". Analyze staged, unstaged, or untracked Git changes and produce a Conventional Commits style message.
+user-invocable: false
 ---
 
 # Git Commit Message Generator

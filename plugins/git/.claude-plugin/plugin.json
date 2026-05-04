@@ -6,6 +6,9 @@
     "name": "yjydist",
     "email": "yjydist@qq.com"
   },
+  "commands":[
+    "./commands"
+  ],
   "skills":[
     "./skills"
   ],
