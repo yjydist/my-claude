@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "git",
+  "description": "Git workflow tools including commit message generation with Conventional Commits support",
+  "author": {
+    "name": "yjydist",
+    "email": "yjydist@qq.com"
+  },
+  "skills":[
+    "./skills"
+  ],
+  "keywords": ["git", "commit", "conventional-commits", "version-control"]
+}

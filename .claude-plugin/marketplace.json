@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "my-claude",
+  "description": "Personal Claude Code plugins and skills collection",
+  "owner": {
+    "name": "yjydist"
+  },
+  "plugins": [
+    {
+      "name": "git",
+      "source": "./plugins/git",
+      "description": "Git workflow tools including commit message generation",
+      "category": "version-control"
+    }
+  ]
+}
