@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "git",
+      "name": "git-workflow",
       "source": "./plugins/git",
       "description": "Git workflow tools including commit message generation",
       "category": "version-control"
