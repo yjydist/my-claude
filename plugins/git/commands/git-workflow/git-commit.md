@@ -1,5 +1,5 @@
 ---
-name: git-commit-msg
+name: git-commit
 description: generate git commit message
 ---
 
