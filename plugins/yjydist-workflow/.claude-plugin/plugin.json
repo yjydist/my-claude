@@ -1,0 +1,13 @@
+{
+  "name": "yjydist-workflow",
+  "version": "0.1.0",
+  "description": "Lightweight personal workflow for planning, executing, and cleaning up with a temporary PLAN.md file.",
+  "author": {
+    "name": "yjydist"
+  },
+  "keywords": [
+    "workflow",
+    "planning",
+    "personal-workflow"
+  ]
+}
